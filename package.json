@@ -1,0 +1,22 @@
+{
+  "name": "nada-ui-helpers",
+  "version": "1.0.0",
+  "description": "Lightweight JavaScript utility helpers for common UI tasks such as text formatting, input checks, and DOM class toggling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e \"const h = require('./index'); console.assert(typeof h.truncateText === 'function'); console.log('OK');\""
+  },
+  "keywords": [
+    "ui",
+    "helpers",
+    "utilities",
+    "javascript",
+    "dom"
+  ],
+  "author": "Nada Aktalati",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nadaaktalati/nada-ui-helpers.git"
+  }
+}
