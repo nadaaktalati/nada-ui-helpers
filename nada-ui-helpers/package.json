@@ -1,0 +1,17 @@
+﻿{
+  "name": "nada-ui-helpers",
+  "version": "1.0.0",
+  "description": "Simple UI and price formatting helpers",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadaaktalati/nada-ui-helpers.git"
+  },
+  "keywords": ["ui", "helpers", "format"],
+  "author": "Nada Aktalati",
+  "license": "MIT"
+}
